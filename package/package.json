@@ -1,0 +1,25 @@
+{
+  "name": "noman54-simple-calculator",
+  "version": "1.0.0",
+  "description": "perform arthematic operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadNoman054/Npm-Package.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Noman054",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadNoman054/Npm-Package/issues"
+  },
+  "homepage": "https://github.com/MohammadNoman054/Npm-Package#readme",
+  "dependencies": {
+    "noman54-simple-calculator": "^1.0.0"
+  }
+}
